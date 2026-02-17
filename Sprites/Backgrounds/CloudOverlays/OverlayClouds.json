@@ -1,0 +1,5 @@
+{
+	"variations": {
+		"default": { "Day": {"source": "CloudOverlay.png"}, "Night": {"source": "CloudOverlayNight.png"} }
+	}
+}

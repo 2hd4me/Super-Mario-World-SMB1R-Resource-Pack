@@ -1,0 +1,41 @@
+{
+	"animations": {
+		"default": { "frames": [[0, 0, 512, 512]], "speed": 5.0, "loop": false }
+	},
+	"variations": {
+		"default": { 
+			"Day": {"source": "Bush.png"}, 
+			"Night": {"source": "BushNight.png"} 
+		},
+		"Snow": { 
+			"Day": {"source": "SnowBush.png"}, 
+			"Night": {"source": "SnowBushNight.png"} 
+		},
+		"Desert": { 
+			"Day": {"source": "DesertBush.png"}, 
+			"Night": {"source": "DesertBushNight.png"} 
+		},
+		"Skyland": { 
+			"Day": {"source": "SkyBush.png"}, 
+			"Night": {"source": "SkyBushNight.png"} 
+		},
+		"Pipeland": { 
+			"Day": {"source": "SkyBush.png"}, 
+			"Night": {"source": "SkyBushNight.png"} 
+		},
+		"Mountain": { 
+			"Day": {"source": "MountainBush.png"}, 
+			"Night": {"source": "MountainBushNight.png"} 
+		},
+		"Beach": { 
+			"Day": {"source": "BeachBush.png"}, 
+			"Night": {"source": "BeachBushNight.png"} 
+		},
+		"GhostHouse": { 
+			"Day": {"source": "GhosthouseBush.png"}, 
+			"Night": {"source": "GhosthouseBushNight.png"} 
+		},
+		"Underground": {"source": "UndergroundBush.png"},
+		"Underwater": {"source": "UnderwaterBush.png"},
+	}
+}

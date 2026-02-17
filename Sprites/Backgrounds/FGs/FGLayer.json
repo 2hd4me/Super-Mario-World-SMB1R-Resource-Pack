@@ -1,0 +1,7 @@
+{
+	"variations": {
+		"default": {"source": "Default.png"},
+		"Underwater": { "source": "Fish.png"},
+		"CastleWater": {"source": "Fish.png"},
+	}
+}
