@@ -1,0 +1,39 @@
+{
+	"options": {
+		"Luigi Skins (WIP)": "Custom",
+		"Goomba Skins": "Special",
+		"Koopa Skins": "Special",
+		"Plant Skins": "Special",
+		"Pokey Skins": "Special"
+	},
+	"value_keys": {
+		"Luigi Skins (WIP)": [
+			"Custom",
+			"SMW",
+			"SMAS",
+			"SMA2",
+			"SMM2"
+		],
+		"Goomba Skins": [
+			"Base",
+			"Special",
+			"Boring",
+			"Galoomba???",
+			"SPECIAL GALOOMBA???"
+		],
+		"Koopa Skins": [
+			"Quadruped",
+			"Biped",
+			"Special"
+		],
+		"Plant Skins": [
+			"Base",
+			"Retro",
+			"Special"
+		],
+		"Pokey Skins": [
+			"Base",
+			"Special"
+		]
+	}
+}
