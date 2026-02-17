@@ -1,0 +1,20 @@
+{
+	"properties":
+	{
+		"use_sprite": true,
+		"show_walls": false
+	},
+	"variations":
+	{
+		"default":
+		{
+			"source": "EndingFinalCastle.png",
+			"rect": [0, 0, 416, 208]
+		},
+		"Snow":
+		{
+			"source": "EndingFinalCastleSnow.png",
+			"rect": [0, 0, 416, 208]
+		}
+	}
+}

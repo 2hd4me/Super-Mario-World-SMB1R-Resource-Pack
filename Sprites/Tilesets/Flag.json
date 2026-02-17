@@ -1,0 +1,15 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 32, 16], [32, 0, 32, 16], [64, 0, 32, 16]],
+			"speed": 7.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "Flag.png",
+			"rect": [0, 0, 96, 16]
+		}
+	}
+}

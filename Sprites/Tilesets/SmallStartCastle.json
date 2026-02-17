@@ -1,0 +1,19 @@
+{
+	"properties":
+	{
+		"use_sprite": true
+	},
+	"variations":
+	{
+		"default":
+		{
+			"source": "StartingCastle.png",
+			"rect": [0, 0, 288, 112]
+		},
+		"Snow":
+		{
+			"source": "StartingCastleSnow.png",
+			"rect": [0, 0, 288, 112]
+		}
+	}
+}
