@@ -1,0 +1,39 @@
+{
+	"properties": {
+		"can_mushroom_tint": false
+	},
+	"variations": {
+		"default": {
+			"Day": { "source": "Mushrooms.png" },
+			"Night": { "source": "MushroomsNight.png" }
+		},
+		"Desert": {
+			"Day": { "source": "DesertMushrooms.png" },
+			"Night": { "source": "DesertMushroomsNight.png" }
+		},
+		"Snow": {
+			"Day": { "source": "SnowMushrooms.png" },
+			"Night": { "source": "SnowMushroomsNight.png" }
+		},
+		"Mountain": {
+			"Day": { "source": "MountainMushrooms.png" },
+			"Night": { "source": "MountainMushroomsNight.png" }
+		},
+		"Skyland": {
+			"Day": { "source": "SkyMushrooms.png" },
+			"Night": { "source": "SkyMushroomsNight.png" }
+		},
+		"Pipeland": {
+			"Day": { "source": "SkyMushrooms.png" },
+			"Night": { "source": "SkyMushroomsNight.png" }
+		},
+		"Beach": {
+			"Day": { "source": "BeachMushrooms.png" },
+			"Night": { "source": "BeachMushroomsNight.png" }
+		},
+		"GhostHouse": {
+			"Day": { "source": "GhosthouseMushrooms.png" },
+			"Night": { "source": "GhosthouseMushroomsNight.png" }
+		},
+	}
+}

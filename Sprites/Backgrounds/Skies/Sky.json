@@ -1,0 +1,93 @@
+{
+	"properties": {
+		"sky_scroll_speed": -4,
+		"top_edge_enabled": false
+	},
+	"variations": {
+		 "Day": {
+			"default": {"source": "DaySky.png"},
+			"Desert": {"source": "DesertSky.png"},
+			"Mountain": {"source": "DesertSky.png"},
+			"Snow": {"source": "SnowSky.png"},
+			"Pipeland": {"source": "SnowSky.png"},
+			"Skyland": {"source": "SnowSky.png"},
+			"Underground": {"source": "UndergroundSky.png"},
+			"GhostHouse": {"source": "UndergroundSky.png"},
+			"Castle": {"source": "UndergroundSky.png"},
+			"Volcano": {"source": "UndergroundSky.png"},
+			"Beach": {"source": "BeachSky.png"},
+			"Space": {
+				"source": "NightStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512],
+						[1024, 0, 512, 512],
+						[1536, 0, 512, 512]
+						],
+					"speed": 5.0,
+					"loop": true
+				}}
+			}
+		},
+		"Night": {
+			"default": {
+				"source": "NightStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512],
+						[1024, 0, 512, 512],
+						[1536, 0, 512, 512]
+						],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"Underground": {
+				"source": "DarkStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512],
+						[1024, 0, 512, 512],
+						[1536, 0, 512, 512]
+						],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"Castle": {
+				"source": "DarkStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512],
+						[1024, 0, 512, 512],
+						[1536, 0, 512, 512]
+						],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+			"Beach": {
+				"source": "BeachStars.png",
+				"properties": {"sky_scroll_speed": 0},
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512],
+						[1024, 0, 512, 512],
+						[1536, 0, 512, 512]
+						],
+					"speed": 5.0,
+					"loop": true
+				}}
+			},
+		}
+	}
+}

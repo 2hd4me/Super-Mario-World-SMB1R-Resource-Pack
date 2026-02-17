@@ -1,0 +1,63 @@
+{
+	"properties": {
+		"can_tree_tint": false
+	},
+	"variations": {
+		"default": {
+			"Day": {
+				"source": "Trees.png"
+			},
+			"Night": {
+				"source": "TreesNight.png"
+			}
+		},
+		"Skyland": {
+			"Day": {
+				"source": "SkyTrees.png"
+			},
+			"Night": {
+				"source": "SkyTreesNight.png"
+			}
+		},
+		"Snow": {
+			"Day": {
+				"source": "SnowTrees.png"
+			},
+			"Night": {
+				"source": "SnowTreesNight.png"
+			}
+		},
+		"Desert": {
+			"Day": {
+				"source": "DesertTrees.png"
+			},
+			"Night": {
+				"source": "DesertTreesNight.png"
+			}
+		},
+		"Mountain": {
+			"Day": {
+				"source": "MountainTrees.png"
+			},
+			"Night": {
+				"source": "MountainTreesNight.png"
+			}
+		},
+		"GhostHouse": {
+			"Day": {
+				"source": "GhosthouseTrees.png"
+			},
+			"Night": {
+				"source": "GhosthouseTreesNight.png"
+			}
+		},
+		"Beach": {
+			"Day": {
+				"source": "BeachTrees.png"
+			},
+			"Night": {
+				"source": "BeachTreesNight.png"
+			}
+		},
+	}
+}
