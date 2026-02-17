@@ -1,10 +1,10 @@
 {
 	"options": {
 		"Luigi Skins (WIP)": "Custom",
-		"Goomba Skins": "Special",
-		"Koopa Skins": "Special",
-		"Plant Skins": "Special",
-		"Pokey Skins": "Special"
+		"Goomba Skins": "Base",
+		"Koopa Skins": "Quadruped",
+		"Plant Skins": "Base",
+		"Pokey Skins": "Base"
 	},
 	"value_keys": {
 		"Luigi Skins (WIP)": [
