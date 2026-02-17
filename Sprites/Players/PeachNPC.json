@@ -1,0 +1,6 @@
+{
+	"variations": {
+		"SMB1": {"source": "Peach.png", "rect": [0, 0, 24, 32]},
+		"SMBLL": {"source": "Peach.png", "rect": [24, 0, 24, 32]}
+	}
+}

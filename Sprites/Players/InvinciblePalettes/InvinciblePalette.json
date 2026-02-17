@@ -1,0 +1,24 @@
+{
+	"variations": {
+		"Character:default": {
+			"source": "YoshiPalettes.png",
+			"rect": [0, 0, 10, 16]
+		},
+		"Character:Mario": {
+			"source": "BrothersPalettes.png",
+			"rect": [0, 0, 9, 4]
+		},
+		"Character:Luigi": {
+			"source": "BrothersPalettes.png",
+			"rect": [0, 0, 9, 4]
+		},
+		"Character:Toad": {
+			"source": "ToadsPalettes.png",
+			"rect": [0, 0, 9, 4]
+		},
+		"Character:Toadette": {
+			"source": "ToadsPalettes.png",
+			"rect": [0, 0, 9, 4]
+		}
+	}
+}
