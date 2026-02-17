@@ -1,0 +1,15 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 8, 8]
+			],
+			"speed": 10.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"SMB1": {"source": "TitleScreenStars.png", "rect": [0, 0, 8, 8]},
+		"SMBLL": {"source": "TitleScreenStars.png", "rect": [8, 8, 8, 8]}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"variations": {
+		"SMB1": {
+			"source": "Title1.png", "rect": [0, 0, 256, 144],
+		},
+		"SMBLL": {
+			"choices": [
+				{"source": "Title1.png", "rect": [256, 0, 256, 144]},
+				{"source": "Title1.png", "rect": [0, 144, 256, 144]},
+				{"source": "Title1.png", "rect": [256, 144, 256, 144]},
+				{"source": "Title1.png", "rect": [512, 144, 256, 144]},
+				{"source": "Title1.png", "rect": [768, 144, 256, 144]}
+			]
+		},
+		"SMBS": {
+			"source": "Title1.png", "rect": [512, 0, 256, 144]
+		},
+		"SMBANN": {
+			"source": "Title1.png", "rect": [768, 0, 256, 144]
+		}
+	}
+}
