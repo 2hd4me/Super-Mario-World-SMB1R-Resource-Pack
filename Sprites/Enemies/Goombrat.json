@@ -1,0 +1,46 @@
+{	
+	"properties": {
+	"can_turn": true,
+},
+	"animations": {
+		"Walk": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Stomped": {
+			"frames": [
+				[
+					32.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"config:Goomba Skins": {
+			"Base": {"source": "Goomba.png", "rect": [48, 0, 48, 16]}, 
+			"Special": {"source": "Goomba.png", "rect": [48, 16, 48, 16]},
+			"Boring": {"source": "Goomba.png", "rect": [48, 32, 48, 16]},
+			"Galoomba???": {"source": "Goomba.png", "rect": [48, 48, 48, 16]},
+			"SPECIAL GALOOMBA???": {"source": "Goomba.png", "rect": [48, 64, 48, 16]},
+		}
+	}
+}

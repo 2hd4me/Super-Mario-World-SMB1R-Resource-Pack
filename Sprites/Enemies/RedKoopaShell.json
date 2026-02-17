@@ -1,0 +1,71 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					16.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Spin": {
+			"frames": [
+				[
+					16.0,
+					16.0,
+					16.0,
+					16.0
+				],
+				[
+					32.0,
+					16.0,
+					16.0,
+					16.0
+				],
+				[
+					48.0,
+					16.0,
+					16.0,
+					16.0
+				],
+				[
+					0.0,
+					16.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 15.0,
+			"loop": true
+		},
+		"Wake": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				],
+				[
+					0.0,
+					16.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"config:Koopa Skins": {
+			"Quadruped": {"source": "Koopa.png", "rect": [128, 0, 64, 32]}, 
+			"Biped": {"source": "Koopa.png", "rect": [128, 32, 64, 32]},
+			"Special": {"source": "Koopa.png", "rect": [128, 64, 64, 32]},
+		}
+	}
+}

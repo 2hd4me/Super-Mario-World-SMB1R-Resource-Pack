@@ -1,0 +1,8 @@
+{
+	"variations": {
+		"default": {
+			"source": "ChainChomp.png",
+			"rect": [32, 0, 16, 16]
+		}
+	}
+}
