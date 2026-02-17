@@ -1,0 +1,36 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 64, 64],
+				[64, 0, 64, 64],
+				[128, 0, 64, 64],
+				[192, 0, 64, 64],
+				[256, 0, 64, 64],
+				[320, 0, 64, 64],
+				[384, 0, 64, 64],
+				[448, 0, 64, 64],
+				[512, 0, 64, 64],
+				[448, -1, 64, 64],
+				[512, -1, 64, 64],
+				[448, -2, 64, 64],
+				[512, -2, 64, 64],
+				[0, 0, 1, 1]
+			],
+			"speed": 15.0,
+			"loop": false
+		}
+	},
+	"variations": {
+		"choices": [ 
+		{"source": "Firework.png", "rect": [0, 0, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 64, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 128, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 192, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 256, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 320, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 384, 576, 64]},
+		{"source": "Firework.png", "rect": [0, 448, 576, 64]}
+		]
+	}
+}
