@@ -1,0 +1,13 @@
+{
+	"variations": {
+		"default": {
+			"source": "Vine.png",
+			"rect": [
+				0.0,
+				0.0,
+				16.0,
+				48.0
+			]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"variations": {
+		"SMB1": {
+			"default": {"source": "PoisonMushroom.png", "rect": [0, 0, 16, 16]}
+		},
+		"SMBLL": {
+			"default": {"source": "PoisonMushroom.png", "rect": [0, 0, 16, 16]}
+		},
+		"SMBANN": {"link": "SMBLL"}
+	}
+}

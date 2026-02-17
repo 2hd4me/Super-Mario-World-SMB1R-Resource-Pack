@@ -1,0 +1,5 @@
+{
+	"variations": {
+		"default": {"source": "SpikeBall.png", "rect": [0, 0, 16, 16]},
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 16, 16],
+				[16, 0, 16, 16],
+				[32, 0, 16, 16],
+				[48, 0, 16, 16],
+				[64, 0, 16, 16],
+				[48, 0, 16, 16],
+				[32, 0, 16, 16],
+				[16, 0, 16, 16]
+			],
+			"speed": 14.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"SMB1": {
+			"default": {"source": "BridgeAxe.png", "rect": [0, 0, 80, 16]}
+		},
+		"SMBANN": {
+			"default": {"source": "BridgeAxe.png", "rect": [0, 16, 80, 16]}
+		}
+	}
+}
