@@ -1,0 +1,6 @@
+{
+	"variations": {
+		"default": { "source": "Underwater.bgm" },
+		"CastleWater": { "source": "Castle.bgm" }
+	}
+}
