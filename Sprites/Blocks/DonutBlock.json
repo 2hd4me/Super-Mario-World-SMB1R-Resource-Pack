@@ -1,0 +1,39 @@
+{
+	"animations": {
+		"Fall": {
+			"frames": [
+				[
+					16.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		},
+		"Idle": {
+			"frames": [
+				[
+					0.0,
+					0.0,
+					16.0,
+					16.0
+				]
+			],
+			"speed": 5.0,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {
+			"source": "DonutBlock.png",
+			"rect": [
+				0.0,
+				0.0,
+				32.0,
+				16.0
+			]
+		}
+	}
+}
