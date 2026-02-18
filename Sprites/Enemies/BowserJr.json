@@ -1,0 +1,57 @@
+{
+	"animations": {
+		"Idle": {
+			"frames": [
+				[0, 0, 48, 32],
+				[48, 0, 48, 32],
+				[0, 32, 48, 32],
+				[0, 32, 48, 32]
+			],
+			"speed": 4.0,
+			"loop": true
+		},
+		"Breathe": {
+			"frames": [
+				[48, 0, 48, 32],
+				[96, 0, 48, 32]
+			],
+			"speed": 4.0,
+			"loop": false
+		},
+		"Fire": {
+			"frames": [[144, 0, 48, 32]],
+			"speed": 5.0,
+			"loop": false
+		},
+		"Jump": {
+			"frames": [[0, 32, 48, 32]],
+			"speed": 5.0,
+			"loop": false
+		},
+		"GroundPoundAir": {
+			"frames": [
+				[0, 32, 48, 32],
+				[48, 32, 48, 32]
+			],
+			"speed": 6.0,
+			"loop": false
+		},
+		"GroundPoundLand": {
+			"frames": [[96, 32, 48, 32]],
+			"speed": 5.0,
+			"loop": false
+		},
+		"Damage": {"link": "Jump"},
+		"Shell": {
+			"frames": [
+				[144, 32, 16, 16],
+				[160, 32, 16, 16],
+				[176, 32, 16, 16],
+				[144, 48, 16, 16]
+			],
+			"speed": 15.0,
+			"loop": true
+		}
+	},
+	"variations": {"source": "BowserJr.png"}
+}
