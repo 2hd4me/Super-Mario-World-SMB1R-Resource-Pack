@@ -1,0 +1,26 @@
+{
+	"variations": {
+		"default": {
+			"choices": [
+				{
+					"source": "BarrelDestructionParticle.png",
+					"rect": [
+						0.0,
+						0.0,
+						8.0,
+						8.0
+					]
+				},
+				{
+					"source": "BarrelDestructionParticle.png",
+					"rect": [
+						8.0,
+						0.0,
+						8.0,
+						8.0
+					]
+				}
+			]
+		},
+	}
+}
