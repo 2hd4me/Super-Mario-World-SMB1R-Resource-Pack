@@ -35,5 +35,9 @@
 			"Day": { "source": "GhosthouseMushrooms.png" },
 			"Night": { "source": "GhosthouseMushroomsNight.png" }
 		},
+		"Volcano": {
+			"Day": { "source": "VolcanoMushrooms.png" },
+			"Night": { "source": "VolcanoMushroomsNight.png" }
+		},
 	}
 }
