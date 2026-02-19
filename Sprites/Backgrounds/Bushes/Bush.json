@@ -1,7 +1,4 @@
 {
-	"animations": {
-		"default": { "frames": [[0, 0, 512, 512]], "speed": 5.0, "loop": false }
-	},
 	"variations": {
 		"default": { 
 			"Day": {"source": "Bush.png"}, 
@@ -41,5 +38,20 @@
 		},
 		"Underground": {"source": "UndergroundBush.png"},
 		"Underwater": {"source": "UnderwaterBush.png"},
+		"Castle": {
+			"Day": {
+			"source": "CastleBush.png",
+			"animations": {"default": {
+				"frames": [
+					[0, 0, 512, 512], 
+					[512, 0, 512, 512],
+					[1024, 0, 512, 512],
+					[1536, 0, 512, 512]
+					],
+				"speed": 7.0,
+				"loop": true
+			}}},
+			"Night": {"source": "CastleBushNight.png"},
+		},
 	}
 }
