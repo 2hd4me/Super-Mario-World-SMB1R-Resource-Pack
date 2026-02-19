@@ -51,6 +51,14 @@
 				"source": "GhosthouseTreesNight.png"
 			}
 		},
+		"Volcano": {
+			"Day": {
+				"source": "VolcanoTrees.png"
+			},
+			"Night": {
+				"source": "VolcanoTreesNight.png"
+			}
+		},
 		"Beach": {
 			"Day": {
 				"source": "BeachTrees.png"
