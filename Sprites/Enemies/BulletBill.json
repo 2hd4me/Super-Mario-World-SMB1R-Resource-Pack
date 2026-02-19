@@ -1,15 +1,17 @@
 {
 	"animations": {
 		"default": {
-		"frames": [[0, 0, 16, 16]],
-			"speed": 5.0,
+		"frames": [[0, 0, 16, 16], [16, 0, 16, 16]],
+			"speed": 8.0,
 			"loop": true
 		}
 	},
 	"variations": {
-		"default": {
-			"source": "BulletBill.png",
-			"rect": [0, 0, 16, 16]
+		"config:Bullet Skins": {
+			"Base": {"source": "BulletBill.png", "rect": [0, 0, 32, 16]}, 
+			"Special (Custom)": {"source": "BulletBill.png", "rect": [0, 16, 32, 16]}, 
+			"Special (SMW)": {"source": "BulletBill.png", "rect": [0, 32, 32, 16]}, 
+			"Special (SMA2)": {"source": "BulletBill.png", "rect": [0, 48, 32, 16]}, 
 		}
 	}
 }

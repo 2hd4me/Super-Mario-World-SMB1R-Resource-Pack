@@ -1,17 +1,22 @@
 {
 	"animations": {
 		"Normal": {
-			"frames": [[0, 0, 16, 16]],
-			"speed": 5.0,
+			"frames": [[0, 0, 16, 16], [16, 0, 16, 16]],
+			"speed": 8.0,
 			"loop": true
 		},
 		"Diagonal": {
-			"frames": [[16, 0, 16, 16]],
-			"speed": 5.0,
+			"frames": [[32, 0, 16, 16], [48, 0, 16, 16]],
+			"speed": 8.0,
 			"loop": true
 		}
 	},
 	"variations": {
-		"default": {"source": "HomingBill.png"}
+		"config:Bullet Skins": {
+			"Base": {"source": "HomingBill.png", "rect": [0, 0, 64, 16]}, 
+			"Special (Custom)": {"source": "HomingBill.png", "rect": [0, 16, 64, 16]}, 
+			"Special (SMW)": {"source": "HomingBill.png", "rect": [0, 32, 64, 16]}, 
+			"Special (SMA2)": {"source": "HomingBill.png", "rect": [0, 48, 64, 16]}, 
+		}
 	}
 }
