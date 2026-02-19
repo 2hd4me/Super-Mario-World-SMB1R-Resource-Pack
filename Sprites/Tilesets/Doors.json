@@ -1,27 +1,27 @@
 {
 	"animations": {
-		"Locked": { "frames": [[0, 0, 32, 32]], "speed": 5, "loop": true },
-		"Idle": { "frames": [[32, 0, 16, 32]], "speed": 5, "loop": true },
+		"Locked": { "frames": [[64, 0, 32, 32]], "speed": 5, "loop": true },
+		"Idle": { "frames": [[16, 0, 16, 32]], "speed": 5, "loop": true },
 		"Open": {
 			"frames": [
+				[16, 0, 16, 32],
 				[32, 0, 16, 32],
-				[48, 0, 16, 32],
-				[64, 0, 16, 32]
+				[48, 0, 16, 32]
 			],
 			"speed": 10,
 			"loop": false
 		},
 		"Close": {
 			"frames": [
-				[64, 0, 16, 32],
 				[48, 0, 16, 32],
-				[32, 0, 16, 32]
+				[32, 0, 16, 32],
+				[16, 0, 16, 32]
 			],
 			"speed": 15,
 			"loop": false
 		}
 	},
 	"variations": {
-		"default": { "source": "Doors.png", "rect": [0, 0, 80, 32] }
+		"default": { "source": "Doors.png", "rect": [0, 0, 96, 32] }
 	}
 }
