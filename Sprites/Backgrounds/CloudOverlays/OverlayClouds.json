@@ -1,5 +1,7 @@
 {
 	"variations": {
-		"default": { "Day": {"source": "CloudOverlay.png"}, "Night": {"source": "CloudOverlayNight.png"} }
+		"default": { "Day": {"source": "CloudOverlay.png"}, "Night": {"source": "CloudOverlayNight.png"} },
+		"Volcano": { "Day": {"source": "CloudOverlayNight.png"}, "Night": {"source": "VolcanoOverlayNight.png"} },
+		"GhostHouse": { "source": "CloudOverlayNight.png" },
 	}
 }
