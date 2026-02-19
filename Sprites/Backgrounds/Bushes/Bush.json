@@ -35,6 +35,10 @@
 			"Day": {"source": "GhosthouseBush.png"}, 
 			"Night": {"source": "GhosthouseBushNight.png"} 
 		},
+		"Volcano": { 
+			"Day": {"source": "VolcanoBush.png"}, 
+			"Night": {"source": "VolcanoBushNight.png"} 
+		},
 		"Underground": {"source": "UndergroundBush.png"},
 		"Underwater": {"source": "UnderwaterBush.png"},
 	}
