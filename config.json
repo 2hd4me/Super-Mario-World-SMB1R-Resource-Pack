@@ -4,6 +4,7 @@
 		"Goomba Skins": "Base",
 		"Koopa Skins": "Quadruped",
 		"Plant Skins": "Base",
+		"Bullet Skins": "Base",
 		"Pokey Skins": "Base"
 	},
 	"value_keys": {
@@ -30,6 +31,12 @@
 			"Base",
 			"Retro",
 			"Special"
+		],
+		"Bullet Skins": [
+			"Base",
+			"Special (Custom)",
+			"Special (SMW)",
+			"Special (SMA2)"
 		],
 		"Pokey Skins": [
 			"Base",
