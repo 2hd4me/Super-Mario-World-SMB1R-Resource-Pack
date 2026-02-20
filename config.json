@@ -5,7 +5,8 @@
 		"Koopa Skins": "Quadruped",
 		"Plant Skins": "Base",
 		"Bullet Skins": "Base",
-		"Pokey Skins": "Base"
+		"Pokey Skins": "Base",
+		"Forest Overlay": "On"
 	},
 	"value_keys": {
 		"Luigi Skins (WIP)": [
@@ -41,6 +42,10 @@
 		"Pokey Skins": [
 			"Base",
 			"Special"
+		],
+		"Forest Overlay": [
+			"On",
+			"Off"
 		]
 	}
 }
