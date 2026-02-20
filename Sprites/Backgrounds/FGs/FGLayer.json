@@ -3,5 +3,19 @@
 		"default": {"source": "Default.png"},
 		"Underwater": { "source": "Fish.png"},
 		"CastleWater": {"source": "Fish.png"},
+		"Jungle" : {
+			"config:Forest Overlay": { 
+				"On" : {
+					"World1": {"source": "Default.png"},
+					"World4": {
+						"Level1": {"source": "Trees.png"},
+						"Level2": {"source": "Trees.png"},
+						"Level3": {"source": "Default.png"},
+						"Level3": {"source": "Default.png"},
+					}
+				},
+				"Off" : {"source": "Default.png"}
+			}
+		}
 	}
 }
