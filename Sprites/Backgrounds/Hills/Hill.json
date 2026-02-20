@@ -124,8 +124,26 @@
 			"Night": {"source": "SpaceNight.png"}
 		},
 		"Airship": {
-			"Day": {"source": "Airship.png"},
-			"Night": {"source": "AirshipNight.png"}
+			"Day": {
+				"source": "Airship.png",
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512]
+					],
+					"speed": 10.0,
+					"loop": true
+			}}},
+			"Night": {
+				"source": "AirshipNight.png",
+				"animations": {"default": {
+					"frames": [
+						[0, 0, 512, 512], 
+						[512, 0, 512, 512]
+					],
+					"speed": 10.0,
+					"loop": true
+			}}},
 		},
 		"Bonus": {
 			"Day": {"source": "Bonus.png"},
