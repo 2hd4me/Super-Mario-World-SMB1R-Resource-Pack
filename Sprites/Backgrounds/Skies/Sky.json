@@ -17,6 +17,7 @@
 			"Castle": {"source": "UndergroundSky.png"},
 			"Volcano": {"source": "VolcanoSky.png"},
 			"Beach": {"source": "BeachSky.png"},
+			"CastleWater": {"source": "CastleWaterSky.png"},
 			"Airship": {
 				"source": "AirshipSky.png",
 				"properties": {"sky_scroll_speed": -24}
@@ -79,6 +80,7 @@
 					"loop": true
 				}}
 			},
+			"CastleWater": {"source": "CastleWaterSkyNight.png"},
 			"Beach": {
 				"source": "BeachStars.png",
 				"properties": {"sky_scroll_speed": 0},
