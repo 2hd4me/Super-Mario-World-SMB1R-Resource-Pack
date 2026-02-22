@@ -1,6 +1,7 @@
 {
 	"options": {
-		"Luigi Skins (WIP)": "Custom",
+		"Luigi Skins": "SMA2",
+		"Toad Skins": "Custom (SMW)",
 		"Goomba Skins": "Base",
 		"Koopa Skins": "Quadruped",
 		"Plant Skins": "Base",
@@ -9,11 +10,16 @@
 		"Forest Overlay": "On"
 	},
 	"value_keys": {
-		"Luigi Skins (WIP)": [
+		"Luigi Skins": [
 			"Custom",
 			"SMW",
 			"SMAS",
 			"SMA2",
+			"SMM2"
+		],
+		"Toad Skins": [
+			"Custom",
+			"Custom (SMW)",
 			"SMM2"
 		],
 		"Goomba Skins": [
