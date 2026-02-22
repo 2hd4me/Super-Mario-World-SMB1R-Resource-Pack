@@ -189,7 +189,7 @@
 		}
 	},
 	"variations": {
-		"config:Luigi Skins (WIP)": {
+		"config:Luigi Skins": {
 			"Custom": {"source": "Small.png"}, 
 			"SMW": {"source": "SmallSMW.png"},
 			"SMAS": {"source": "SmallSMAS.png"},

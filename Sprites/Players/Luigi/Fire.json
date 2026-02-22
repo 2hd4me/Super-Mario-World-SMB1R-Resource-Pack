@@ -191,7 +191,7 @@
 		}
 	},
 	"variations": {
-		"config:Luigi Skins (WIP)": {
+		"config:Luigi Skins": {
 			"Custom": {"source": "Fire.png"}, 
 			"SMW": {"source": "FireSMW.png"},
 			"SMAS": {"source": "FireSMAS.png"},
