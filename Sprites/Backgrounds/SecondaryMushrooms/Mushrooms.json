@@ -43,5 +43,9 @@
 			"Day": { "source": "UnderwaterMushrooms.png" },
 			"Night": { "source": "UnderwaterMushroomsNight.png" }
 		},
+		"CastleWater": {
+			"Day": { "source": "CastleWaterMushrooms.png" },
+			"Night": { "source": "CastleWaterMushroomsNight.png" }
+		},
 	}
 }
