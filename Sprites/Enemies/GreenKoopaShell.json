@@ -45,10 +45,10 @@
 		"Wake": {
 			"frames": [
 				[
-					0.0,
-					0.0,
+					64.0,
+					14.0,
 					16.0,
-					16.0
+					18.0
 				],
 				[
 					0.0,
@@ -63,9 +63,9 @@
 	},
 	"variations": {
 		"config:Koopa Skins": {
-			"Quadruped": {"source": "Koopa.png", "rect": [32, 0, 64, 32]}, 
-			"Biped": {"source": "Koopa.png", "rect": [32, 32, 64, 32]},
-			"Special": {"source": "Koopa.png", "rect": [32, 64, 64, 32]},
+			"Quadruped": {"source": "Koopa.png", "rect": [32, 0, 80, 32]}, 
+			"Biped": {"source": "Koopa.png", "rect": [32, 32, 80, 32]},
+			"Special": {"source": "Koopa.png", "rect": [32, 64, 80, 32]},
 		}
 	}
 }

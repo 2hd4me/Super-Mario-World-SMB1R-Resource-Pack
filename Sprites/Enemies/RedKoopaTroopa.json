@@ -21,9 +21,9 @@
 	},
 	"variations": {
 		"config:Koopa Skins": {
-			"Quadruped": {"source": "Koopa.png", "rect": [96, 0, 32, 32]}, 
-			"Biped": {"source": "Koopa.png", "rect": [96, 32, 32, 32]},
-			"Special": {"source": "Koopa.png", "rect": [96, 64, 32, 32]},
+			"Quadruped": {"source": "Koopa.png", "rect": [112, 0, 32, 32]}, 
+			"Biped": {"source": "Koopa.png", "rect": [112, 32, 32, 32]},
+			"Special": {"source": "Koopa.png", "rect": [112, 64, 32, 32]},
 		}
 	}
 }
