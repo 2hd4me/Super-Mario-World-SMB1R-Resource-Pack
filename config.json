@@ -1,7 +1,8 @@
 {
 	"options": {
-		"Luigi Skins": "SMA2",
-		"Toad Skins": "Custom (SMW)",
+		"Luigi Skins": "Custom",
+		"Toad Skins": "Custom",
+		"Toadette Skins": "Custom",
 		"Goomba Skins": "Base",
 		"Koopa Skins": "Quadruped",
 		"Plant Skins": "Base",
@@ -18,6 +19,11 @@
 			"SMM2"
 		],
 		"Toad Skins": [
+			"Custom",
+			"Custom (SMW)",
+			"SMM2"
+		],
+		"Toadette Skins": [
 			"Custom",
 			"Custom (SMW)",
 			"SMM2"
