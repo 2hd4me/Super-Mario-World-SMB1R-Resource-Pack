@@ -191,9 +191,10 @@
 		}
 	},
 	"variations": {
-		"default": {
-			"source": "Big.png",
-			"rect": [0, 0, 256, 128]
+		"config:Toadette Skins": {
+			"Custom": {"source": "Big.png"}, 
+			"Custom (SMW)": {"source": "BigSMW.png"},
+			"SMM2": {"source": "BigSMM2.png"},
 		}
 	}
 }

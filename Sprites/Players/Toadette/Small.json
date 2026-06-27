@@ -189,9 +189,10 @@
 		}
 	},
 	"variations": {
-		"default": {
-			"source": "Small.png",
-			"rect": [0, 0, 256, 128]
+		"config:Toadette Skins": {
+			"Custom": {"source": "Small.png"}, 
+			"Custom (SMW)": {"source": "SmallSMW.png"},
+			"SMM2": {"source": "SmallSMM2.png"},
 		}
 	}
 }

@@ -191,9 +191,10 @@
 		}
 	},
 	"variations": {
-		"default": {
-			"source": "Superball.png",
-			"rect": [0, 0, 256, 128]
+		"config:Toadette Skins": {
+			"Custom": {"source": "Superball.png"}, 
+			"Custom (SMW)": {"source": "SuperballSMW.png"},
+			"SMM2": {"source": "SuperballSMM2.png"},
 		}
 	}
 }

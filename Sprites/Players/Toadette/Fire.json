@@ -191,9 +191,10 @@
 		}
 	},
 	"variations": {
-		"default": {
-			"source": "Fire.png",
-			"rect": [0, 0, 256, 128]
+		"config:Toadette Skins": {
+			"Custom": {"source": "Fire.png"}, 
+			"Custom (SMW)": {"source": "FireSMW.png"},
+			"SMM2": {"source": "FireSMM2.png"},
 		}
 	}
 }
